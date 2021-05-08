@@ -1,0 +1,11 @@
+pkg updateG
+pkg upgrade
+pkg install python
+pkg install python2
+pkg install git
+pip2 install requests
+pip2 install mechanize
+rm -rf switch
+git clone https://github.com/Aneex26/curly-happiness/new/main
+cd Aneex
+python2 aneex.py
